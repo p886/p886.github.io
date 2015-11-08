@@ -1,6 +1,5 @@
 +++
 date = "2015-11-06T20:52:02+01:00"
-draft = true
 title = "now"
 menu = "main"
 
