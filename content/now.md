@@ -4,10 +4,7 @@ title = "What I'm currently doing"
 menu = "main"
 
 +++
-
-What I'm currently doing:
-
-* Being a web developer
+* Working as a web developer
 * Playing Guitar
 * Playing Piano
 * Singing
