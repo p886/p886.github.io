@@ -10,7 +10,6 @@ A list of higher mental models that I use in my thinking. Will be expanded as I 
 - General:
   - [Pareto Principle (80/20)](https://en.wikipedia.org/wiki/Pareto_principle)
   - [Feedback Loops](https://en.wikipedia.org/wiki/Feedback)
-  - [Sunk Costs](https://en.wikipedia.org/wiki/Sunk_costs)
   - [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
   - [Cynefin](https://en.wikipedia.org/wiki/Cynefin)
   - [Availability Heuristic](https://en.wikipedia.org/wiki/Availability_heuristic)
@@ -22,6 +21,7 @@ A list of higher mental models that I use in my thinking. Will be expanded as I 
   - [Interest](https://en.wikipedia.org/wiki/Interest)
   - [Annuity](https://en.wikipedia.org/wiki/Annuity)
   - [Giffen good](https://en.wikipedia.org/wiki/Giffen_good)
+  - [Sunk Costs](https://en.wikipedia.org/wiki/Sunk_costs)
 - Music
   - [Circle Of Fifths](https://en.wikipedia.org/wiki/Circle_of_fifths)
   - [Harmony](https://en.wikipedia.org/wiki/Harmony)
