@@ -3,17 +3,18 @@
   
   <url>
     <loc>http://philippantar.com/</loc>
-    <lastmod>2015-11-06T20:52:02+01:00</lastmod>
+    <lastmod>2015-11-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://philippantar.com/mental-models/</loc>
+    <lastmod>2015-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://philippantar.com/now/</loc>
     <lastmod>2015-11-06T20:52:02+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://philippantar.com/mental-models/</loc>
   </url>
   
 </urlset>
