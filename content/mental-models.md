@@ -37,13 +37,14 @@ Last update: 2015-11-23
   - [A priori / a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)
   - [Loss aversion](https://en.wikipedia.org/wiki/Loss_aversion)
 - Mathematics / Statistics
-  - [Hilbert's Hotel](https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel)
+  - [Probability Distribution](https://en.wikipedia.org/wiki/Probability_distribution)
   - [Bayes Theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)
   - [Central Limit Theorem](https://en.wikipedia.org/wiki/Central_limit_theorem)
   - [Law Of Large Numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers)
   - [Gambler's fallacy](https://en.wikipedia.org/wiki/Gambler%27s_fallacy)
   - [Correlation does not imply causation](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation)
   - [Necessity and Sufficiency](https://en.wikipedia.org/wiki/Necessity_and_sufficiency)
+  - [Hilbert's Hotel](https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel)
 - Psychology
   - [Survivorship Bias](https://en.wikipedia.org/wiki/Survivorship_bias)
   - [Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias)
