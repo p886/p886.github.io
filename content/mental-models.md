@@ -35,7 +35,6 @@ Last update: 2015-11-23
   - [Hitchens's Razor](https://en.wikipedia.org/wiki/Hitchens%27s_razor)
   - [Newton's Flaming Laser Sword](https://en.wikipedia.org/wiki/Mike_Alder#Newton.27s_flaming_laser_sword)
   - [A priori / a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)
-  - [Loss aversion](https://en.wikipedia.org/wiki/Loss_aversion)
 - Mathematics / Statistics
   - [Probability Distribution](https://en.wikipedia.org/wiki/Probability_distribution)
   - [Bayes Theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)
@@ -50,5 +49,6 @@ Last update: 2015-11-23
   - [Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias)
   - [Fundamental Attribution Error](https://en.wikipedia.org/wiki/Fundamental_attribution_error)
   - [Learned Helplessness](https://www.youtube.com/watch?v=YMPzDiraNnA)
+  - [Loss aversion](https://en.wikipedia.org/wiki/Loss_aversion)
 
 
