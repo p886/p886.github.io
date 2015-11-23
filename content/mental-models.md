@@ -7,6 +7,8 @@ title = "Mental Models"
 
 A list of higher mental models that I use in my thinking. Will be expanded as I learn and grow.
 
+Last update: 2015-11-23
+
 - General:
   - [Pareto Principle (80/20)](https://en.wikipedia.org/wiki/Pareto_principle)
   - [Feedback Loops](https://en.wikipedia.org/wiki/Feedback)
@@ -17,6 +19,7 @@ A list of higher mental models that I use in my thinking. Will be expanded as I 
   - [Fixed Mindest vs. Growth Mindset](https://sivers.org/mindset)
   - [Four-sides model (communication)](https://en.wikipedia.org/wiki/Four-sides_model)
   - [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
+  - [SMART criteria](https://en.wikipedia.org/wiki/SMART_criteria)
 - Finances / Economy
   - [Interest](https://en.wikipedia.org/wiki/Interest)
   - [Annuity](https://en.wikipedia.org/wiki/Annuity)
@@ -32,6 +35,7 @@ A list of higher mental models that I use in my thinking. Will be expanded as I 
   - [Hitchens's Razor](https://en.wikipedia.org/wiki/Hitchens%27s_razor)
   - [Newton's Flaming Laser Sword](https://en.wikipedia.org/wiki/Mike_Alder#Newton.27s_flaming_laser_sword)
   - [A priori / a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)
+  - [Loss aversion](https://en.wikipedia.org/wiki/Loss_aversion)
 - Mathematics / Statistics
   - [Hilbert's Hotel](https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel)
   - [Bayes Theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)
@@ -39,6 +43,7 @@ A list of higher mental models that I use in my thinking. Will be expanded as I 
   - [Law Of Large Numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers)
   - [Gambler's fallacy](https://en.wikipedia.org/wiki/Gambler%27s_fallacy)
   - [Correlation does not imply causation](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation)
+  - [Necessity and Sufficiency](https://en.wikipedia.org/wiki/Necessity_and_sufficiency)
 - Psychology
   - [Survivorship Bias](https://en.wikipedia.org/wiki/Survivorship_bias)
   - [Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias)
