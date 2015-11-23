@@ -6,6 +6,7 @@
     </div>
 
     <ul class="sidebar-nav">
+      <a href="/posts">Blog Posts</a>
       {{ range .Site.Menus.main }}
         <li><a href="{{.URL}}"> {{ .Name }} </a></li>
       {{end}}
