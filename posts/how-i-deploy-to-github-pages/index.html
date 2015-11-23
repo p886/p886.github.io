@@ -1,0 +1,78 @@
+	<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="generator" content="Hugo 0.14" />
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title> How I deploy to GitHub Pages &middot; Philipp Antar </title>
+
+  
+  <link rel="stylesheet" href="http://philippantar.com/css/poole.css">
+  <link rel="stylesheet" href="http://philippantar.com/css/syntax.css">
+  <link rel="stylesheet" href="http://philippantar.com/css/hyde.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/favicon.png">
+
+  
+  <link href="" rel="alternate" type="application/rss+xml" title="Philipp Antar" />
+</head>
+
+	<body class="">
+		<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <a href="http://philippantar.com/"><h1>Philipp Antar</h1></a>
+      <p class="lead">Web Developer, Musician, Student Of Life</p>
+    </div>
+
+    <ul class="sidebar-nav">
+      
+        <li><a href="/mental-models/"> Mental Models </a></li>
+      
+        <li><a href="/now/"> What I&#39;m currently doing </a></li>
+      
+    </ul>
+  </div>
+</div>
+
+
+		<div class="content container">
+			<div class="post">
+			 	<h1>How I deploy to GitHub Pages</h1>
+			  <span class="post-date">Mon, Nov 23, 2015</span>
+			      
+
+<h3 id="how-does-github-pages-work-skip-if-you-know-this:71521a367a7dae90844c0ec73832bc4e">How does Github pages work? (skip if you know this)</h3>
+
+<p>Many static pages generators will generate a single <code>public</code> as output. This folders contains the entire generated site. On GitHub you can create a repository with the special name <code>&lt;your GitHub username&gt;.github.io</code>, in my case <code>p886.github.io</code>. Doing so will create a webpage at the address <code>http://github_user_name.github.io</code>.</p>
+
+<h3 id="the-problem-with-static-page-generators-and-github-pages:71521a367a7dae90844c0ec73832bc4e">The problem with static page generators and GitHub pages</h3>
+
+<p>The tricky part is that the <code>master</code> branch of that repository should contain the site (the content of the aforementioned <code>public</code> folder), while on the other hand you probably want to keep the source files of that page (in my case of collection of markdown files) in the same repository.</p>
+
+<h3 id="the-solution:71521a367a7dae90844c0ec73832bc4e">The solution</h3>
+
+<p>My <a href="https://github.com/p886/p886.github.io">p886.github.io repository</a> has two branches: <code>master</code> and <code>source</code>. <code>master</code> contains the generated HTML, which is copied over on each deployment from the <code>source</code> branches&rsquo; <code>public</code> folder. How do I go about copying the HTML files from one branch to another? I found that the easiest solution is to have the project cloned locally two times. One clone contains only the master branch, another one only the source branch. When creating a post I add the markdown file in the <code>source</code> clone. After commiting the new post I run the static page generator to create the <code>public</code> directory. Subsequently I copy the contents of the public directory to the <code>master</code> clone. A new commit in the <code>master</code> checkout is created which contains the site. This commit is then pushed to the remote repository to have the new content online.</p>
+
+<p>In reality I automated most of this. After I created the commit containing the new post in the <code>source</code> checkout I run this bash script:</p>
+
+<script src="https://gist.github.com/p886/955d2b48aa2718639e70.js"></script>
+
+<h3 id="summary:71521a367a7dae90844c0ec73832bc4e">Summary</h3>
+
+<p>The key is two have two branches in the repository: <code>master</code> and <code>source</code>. Locally the repository is cloned twice: once with the <code>master</code> and again with the <code>source</code> branch.</p>
+
+			</div>
+
+			
+		</div>
+
+  </body>
+</html>

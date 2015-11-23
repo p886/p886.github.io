@@ -6,8 +6,38 @@
     <description>Recent content on Philipp Antar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2015 12:25:34 +0100</lastBuildDate>
     <atom:link href="http://philippantar.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How I deploy to GitHub Pages</title>
+      <link>http://philippantar.com/posts/how-i-deploy-to-github-pages/</link>
+      <pubDate>Mon, 23 Nov 2015 12:25:34 +0100</pubDate>
+      
+      <guid>http://philippantar.com/posts/how-i-deploy-to-github-pages/</guid>
+      <description>
+
+&lt;h3 id=&#34;how-does-github-pages-work-skip-if-you-know-this:71521a367a7dae90844c0ec73832bc4e&#34;&gt;How does Github pages work? (skip if you know this)&lt;/h3&gt;
+
+&lt;p&gt;Many static pages generators will generate a single &lt;code&gt;public&lt;/code&gt; as output. This folders contains the entire generated site. On GitHub you can create a repository with the special name &lt;code&gt;&amp;lt;your GitHub username&amp;gt;.github.io&lt;/code&gt;, in my case &lt;code&gt;p886.github.io&lt;/code&gt;. Doing so will create a webpage at the address &lt;code&gt;http://github_user_name.github.io&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-problem-with-static-page-generators-and-github-pages:71521a367a7dae90844c0ec73832bc4e&#34;&gt;The problem with static page generators and GitHub pages&lt;/h3&gt;
+
+&lt;p&gt;The tricky part is that the &lt;code&gt;master&lt;/code&gt; branch of that repository should contain the site (the content of the aforementioned &lt;code&gt;public&lt;/code&gt; folder), while on the other hand you probably want to keep the source files of that page (in my case of collection of markdown files) in the same repository.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-solution:71521a367a7dae90844c0ec73832bc4e&#34;&gt;The solution&lt;/h3&gt;
+
+&lt;p&gt;My &lt;a href=&#34;https://github.com/p886/p886.github.io&#34;&gt;p886.github.io repository&lt;/a&gt; has two branches: &lt;code&gt;master&lt;/code&gt; and &lt;code&gt;source&lt;/code&gt;. &lt;code&gt;master&lt;/code&gt; contains the generated HTML, which is copied over on each deployment from the &lt;code&gt;source&lt;/code&gt; branches&amp;rsquo; &lt;code&gt;public&lt;/code&gt; folder. How do I go about copying the HTML files from one branch to another? I found that the easiest solution is to have the project cloned locally two times. One clone contains only the master branch, another one only the source branch. When creating a post I add the markdown file in the &lt;code&gt;source&lt;/code&gt; clone. After commiting the new post I run the static page generator to create the &lt;code&gt;public&lt;/code&gt; directory. Subsequently I copy the contents of the public directory to the &lt;code&gt;master&lt;/code&gt; clone. A new commit in the &lt;code&gt;master&lt;/code&gt; checkout is created which contains the site. This commit is then pushed to the remote repository to have the new content online.&lt;/p&gt;
+
+&lt;p&gt;In reality I automated most of this. After I created the commit containing the new post in the &lt;code&gt;source&lt;/code&gt; checkout I run this bash script:&lt;/p&gt;
+
+&lt;script src=&#34;https://gist.github.com/p886/955d2b48aa2718639e70.js&#34;&gt;&lt;/script&gt;
+
+&lt;h3 id=&#34;summary:71521a367a7dae90844c0ec73832bc4e&#34;&gt;Summary&lt;/h3&gt;
+
+&lt;p&gt;The key is two have two branches in the repository: &lt;code&gt;master&lt;/code&gt; and &lt;code&gt;source&lt;/code&gt;. Locally the repository is cloned twice: once with the &lt;code&gt;master&lt;/code&gt; and again with the &lt;code&gt;source&lt;/code&gt; branch.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Mental Models</title>
