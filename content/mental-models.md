@@ -9,7 +9,7 @@ A list of higher mental models that I use in my thinking. Will be expanded as I 
 
 \* denotes additions since last update
 
-Last update: 2015-11-23
+Last update: 2015-12-02
 
 - General:
   - [Pareto Principle (80/20)](https://en.wikipedia.org/wiki/Pareto_principle)
