@@ -7,7 +7,7 @@ title = "Mental Models"
 
 A list of higher mental models that I use in my thinking. Will be expanded as I learn and grow.
 
-Last update: 2015-12-02
+Last update: 2016-01-29
 
 - General:
   - [Pareto Principle (80/20)](https://en.wikipedia.org/wiki/Pareto_principle)
@@ -54,6 +54,7 @@ Last update: 2015-12-02
   - [Correlation does not imply causation](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation)
   - [Necessity and Sufficiency](https://en.wikipedia.org/wiki/Necessity_and_sufficiency)
   - [Hilbert's Hotel](https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel)
+  - [Zipf's Law](https://www.youtube.com/watch?v=fCn8zs912OE)
 - Computer Science
   - [Technological Singularity](https://en.wikipedia.org/wiki/Technological_singularity)
   - [Information Asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry)
