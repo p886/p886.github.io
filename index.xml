@@ -6,8 +6,83 @@
     <description>Recent content on Philipp Antar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2015 12:25:34 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 10 Mar 2016 20:37:14 +0100</lastBuildDate>
     <atom:link href="http://philippantar.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>curriculum vitae</title>
+      <link>http://philippantar.com/cv/</link>
+      <pubDate>Thu, 10 Mar 2016 20:37:14 +0100</pubDate>
+      
+      <guid>http://philippantar.com/cv/</guid>
+      <description>
+
+&lt;h1 id=&#34;philipp-antar:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Philipp Antar&lt;/h1&gt;
+
+&lt;h2 id=&#34;personal-information:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Personal Information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;born: 1986-08-07&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;contact-me:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Contact me&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Email: philippantar@gmail.com&lt;/li&gt;
+&lt;li&gt;Phone: [please inquire]&lt;/li&gt;
+&lt;li&gt;Web: &lt;a href=&#34;http://philippantar.com&#34;&gt;http://philippantar.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Twitter: &lt;a href=&#34;https://twitter.com/p886&#34;&gt;https://twitter.com/p886&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Github: &lt;a href=&#34;https://github.com/p886&#34;&gt;https://github.com/p886&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;education:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Education&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2007 - 2010 &lt;strong&gt;BSc Studies&lt;/strong&gt;, Agricultural Science, University of Bonn&lt;/li&gt;
+&lt;li&gt;2010 - 2012 &lt;strong&gt;MSc Studies&lt;/strong&gt;, Agricultural Science, University of Bonn&lt;/li&gt;
+&lt;li&gt;2013-02 – 2013-08 &lt;strong&gt;Career change into web development&lt;/strong&gt; with online courses at &lt;a href=&#34;https://teamtreehouse.com/&#34;&gt;https://teamtreehouse.com/&lt;/a&gt; and &lt;a href=&#34;https://codecademy.com/&#34;&gt;https://codecademy.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;career:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Career&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2013-01 – 2013-08 &lt;strong&gt;PhD student&lt;/strong&gt;, Institute for Soil Science, University of Bonn&lt;/li&gt;
+&lt;li&gt;2013-08 – 2014-12 &lt;strong&gt;Web Developer&lt;/strong&gt; at FahrtenFuchs GmbH&lt;/li&gt;
+&lt;li&gt;2015-01 – today &lt;strong&gt;Web Developer&lt;/strong&gt;, Distribusion Technologies GmbH&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;expertise:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Expertise&lt;/h2&gt;
+
+&lt;h4 id=&#34;programming-languages-frameworks:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Programming Languages &amp;amp; Frameworks&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ruby, Ruby on Rails&lt;/li&gt;
+&lt;li&gt;Go (Golang)&lt;/li&gt;
+&lt;li&gt;JavaScript, jQuery, React&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;databases:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Databases&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;MySQL&lt;/li&gt;
+&lt;li&gt;PostgreSQL&lt;/li&gt;
+&lt;li&gt;Redis&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;miscellaneous:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Miscellaneous&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;HTML5, CSS3, git, capistrano, ansible&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;languages:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Languages&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;German (native)&lt;/li&gt;
+&lt;li&gt;English (fluent)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>How I deploy to GitHub Pages</title>
