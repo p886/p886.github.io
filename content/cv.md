@@ -27,6 +27,9 @@ title = "curriculum vitae"
 - 2013-08 – 2014-12 **Web Developer** at FahrtenFuchs GmbH
 - 2015-01 – today **Web Developer**, Distribusion Technologies GmbH
 
+## Side projects
+- https://sessionbot.com Backing track generator
+
 ## Expertise
 #### Programming Languages & Frameworks
 - Ruby, Ruby on Rails
