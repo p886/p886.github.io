@@ -9,6 +9,7 @@ title = "curriculum vitae"
 
 ## Personal Information
 - born: 1986-08-07
+- location: [Bonn, Germany](https://www.google.de/maps/@50.7291802,7.0853087,12.28z?hl=en)
 
 ## Contact me
 - Email: philippantar@gmail.com
