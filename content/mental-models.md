@@ -7,7 +7,7 @@ title = "Mental Models"
 
 A list of higher mental models that I use in my thinking. Will be expanded as I learn and grow.
 
-Last update: 2016-01-29
+Last update: 2016-04-04
 
 - General:
   - [Pareto Principle (80/20)](https://en.wikipedia.org/wiki/Pareto_principle)
@@ -29,11 +29,13 @@ Last update: 2016-01-29
   - [Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
   - [Law of Diminishing Returns](https://en.wikipedia.org/wiki/Diminishing_returns)
   - [MECE Principle](https://en.wikipedia.org/wiki/MECE_principle)
+  - [Maslow's Hierarchy Of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 - Finances / Economy
   - [Interest](https://en.wikipedia.org/wiki/Interest)
   - [Annuity](https://en.wikipedia.org/wiki/Annuity)
   - [Giffen good](https://en.wikipedia.org/wiki/Giffen_good)
   - [Sunk Costs](https://en.wikipedia.org/wiki/Sunk_costs)
+  - [Tragedy Of The Commons](https://www.youtube.com/watch?v=WYA1y405JW0)
 - Music
   - [Circle Of Fifths](https://en.wikipedia.org/wiki/Circle_of_fifths)
   - [Harmony](https://en.wikipedia.org/wiki/Harmony)
