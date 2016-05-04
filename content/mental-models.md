@@ -60,5 +60,6 @@ Last update: 2016-04-04
 - Computer Science
   - [Technological Singularity](https://en.wikipedia.org/wiki/Technological_singularity)
   - [Information Asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry)
+  - [Leaky Abstraction](https://en.wikipedia.org/wiki/Leaky_abstraction)
 
 
