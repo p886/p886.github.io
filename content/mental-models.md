@@ -30,6 +30,7 @@ Last update: 2016-04-04
   - [Law of Diminishing Returns](https://en.wikipedia.org/wiki/Diminishing_returns)
   - [MECE Principle](https://en.wikipedia.org/wiki/MECE_principle)
   - [Maslow's Hierarchy Of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+  - [Hedonic Treadmill](https://en.wikipedia.org/wiki/Hedonic_treadmill)
 - Finances / Economy
   - [Interest](https://en.wikipedia.org/wiki/Interest)
   - [Annuity](https://en.wikipedia.org/wiki/Annuity)
