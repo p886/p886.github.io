@@ -20,7 +20,7 @@ What ever happened to…
 
 Clarify for yourself:
 
-- What are you doing between 8pm and midnight?
+- [What are you doing between 8pm and midnight?](http://www.thecoffeeshoptrader.com/2016/05/work-determines-future-spend-one-hour-per-day-five-things-life-will-change.html)
 - What unneccessary habit can you ditch?
   - Social Media
   - TV
