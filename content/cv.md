@@ -25,11 +25,12 @@ title = "curriculum vitae"
 
 ## Career
 - 2013-01 – 2013-08 **PhD student**, Institute for Soil Science, University of Bonn
-- 2013-08 – 2014-12 **Web Developer** at FahrtenFuchs GmbH
-- 2015-01 – today **Web Developer**, Distribusion Technologies GmbH
+- 2013-08 – 2016-05 **Web Developer**, Distribusion Technologies GmbH (formerly: FahrtenFuchs GmbH)
+- since 2016-06 **Web Developer**, SayWay GmbH
 
 ## Side projects
 - https://sessionbot.com Backing track generator
+- https://voczy.com Vocabulary Trainer
 
 ## Expertise
 #### Programming Languages & Frameworks
