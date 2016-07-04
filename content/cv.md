@@ -9,14 +9,15 @@ title = "curriculum vitae"
 
 ## Personal Information
 - born: 1986-08-07
-- location: [Bonn, Germany](https://www.google.de/maps/@50.7291802,7.0853087,12.28z?hl=en)
+- location: [Bonn, Germany](https://www.google.de/maps/@50.7291802,7.0853087,12.28z?hl=en) [willing to relocate _solar-system-wide_]
 
 ## Contact me
 - Email: philippantar@gmail.com
-- Phone: [please inquire]
+- Phone: +49 178 1457886
 - Web: http://philippantar.com
 - Twitter: https://twitter.com/p886
 - Github: https://github.com/p886
+- KeyBase: https://keybase.io/p886
 
 ## Education
 - 2007 - 2010 **BSc Studies**, Agricultural Science, University of Bonn
@@ -29,23 +30,56 @@ title = "curriculum vitae"
 - since 2016-06 **Web Developer**, SayWay GmbH
 
 ## Side projects
-- https://sessionbot.com Backing track generator
-- https://voczy.com Vocabulary Trainer
+- https://sessionbot.com backing track generator that takes chord symbols as input. Built with Rails, Postgres, Foundation (CSS), Ruby MIDI library, timidity, LAME mp3 encoder
+- https://voczy.com Vocabulary Trainer. React frontend, Go backend, Postgres Database, Facebook Login
 
 ## Expertise
 #### Programming Languages & Frameworks
-- Ruby, Ruby on Rails
-- Go (Golang)
-- JavaScript, jQuery, React
+  - Ruby (+++), Ruby on Rails(+++)
+  - Go(++) [golang]
+  - JavaScript(++), jQuery, React(+), Redux
+  - Foundation CSS Framework (++)
 
-#### Databases
-- MySQL
-- PostgreSQL
-- Redis
+#### Web Scraping & Automatization
+  - mechanize(++)
+  - Nokogiri(++)
+  - Selenium
+  - phantomjs
+
+#### Databases & Caches
+  - MySQL(++)
+  - PostgreSQL(+)
+  - mongoDB
+  - Redis
+  - memcached
+
+#### DevOps
+  - Linux, Ubuntu Server(+)
+  - Ansible(+)
+  - nginx
+  - systemd, upstart
+  - docker
+
+#### JavaScript Ecosystem
+  - npm
+  - bower
+  - grunt(+)
+  - webpack
+
+#### Development Tools
+  - Sublime Text
+  - git(+++)
+  - Continuous Integration with circleci.com
+  - vagrant
+  - Virtual Box
+  - zsh(++) in iTerm
+  - Github
+  - Mac OS X(+)
 
 #### Miscellaneous
-- HTML5, CSS3, git, capistrano, ansible
+  - HTML5, CSS3, Capistrano, nodeJS, Rust, R, MATLAB
 
-## Languages
+## Natural Languages
 - German (native)
-- English (fluent)
+- English (almost too good)
+- French, Italian (beginner)
