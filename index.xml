@@ -175,17 +175,18 @@ gCf7If3KEtjQDopTKkoj2bcmhzjhVRyE7jJXSbAJ89SGABWTpYq/IQ==
 
 &lt;ul&gt;
 &lt;li&gt;born: 1986-08-07&lt;/li&gt;
-&lt;li&gt;location: &lt;a href=&#34;https://www.google.de/maps/@50.7291802,7.0853087,12.28z?hl=en&#34;&gt;Bonn, Germany&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;location: &lt;a href=&#34;https://www.google.de/maps/@50.7291802,7.0853087,12.28z?hl=en&#34;&gt;Bonn, Germany&lt;/a&gt; [willing to relocate &lt;em&gt;solar-system-wide&lt;/em&gt;]&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;contact-me:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Contact me&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Email: philippantar@gmail.com&lt;/li&gt;
-&lt;li&gt;Phone: [please inquire]&lt;/li&gt;
+&lt;li&gt;Phone: +49 178 1457886&lt;/li&gt;
 &lt;li&gt;Web: &lt;a href=&#34;http://philippantar.com&#34;&gt;http://philippantar.com&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Twitter: &lt;a href=&#34;https://twitter.com/p886&#34;&gt;https://twitter.com/p886&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Github: &lt;a href=&#34;https://github.com/p886&#34;&gt;https://github.com/p886&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;KeyBase: &lt;a href=&#34;https://keybase.io/p886&#34;&gt;https://keybase.io/p886&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;education:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Education&lt;/h2&gt;
@@ -207,8 +208,8 @@ gCf7If3KEtjQDopTKkoj2bcmhzjhVRyE7jJXSbAJ89SGABWTpYq/IQ==
 &lt;h2 id=&#34;side-projects:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Side projects&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sessionbot.com&#34;&gt;https://sessionbot.com&lt;/a&gt; Backing track generator&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://voczy.com&#34;&gt;https://voczy.com&lt;/a&gt; Vocabulary Trainer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sessionbot.com&#34;&gt;https://sessionbot.com&lt;/a&gt; backing track generator that takes chord symbols as input. Built with Rails, Postgres, Foundation (CSS), Ruby MIDI library, timidity, LAME mp3 encoder&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://voczy.com&#34;&gt;https://voczy.com&lt;/a&gt; Vocabulary Trainer. React frontend, Go backend, Postgres Database, Facebook Login&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;expertise:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Expertise&lt;/h2&gt;
@@ -216,30 +217,75 @@ gCf7If3KEtjQDopTKkoj2bcmhzjhVRyE7jJXSbAJ89SGABWTpYq/IQ==
 &lt;h4 id=&#34;programming-languages-frameworks:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Programming Languages &amp;amp; Frameworks&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Ruby, Ruby on Rails&lt;/li&gt;
-&lt;li&gt;Go (Golang)&lt;/li&gt;
-&lt;li&gt;JavaScript, jQuery, React&lt;/li&gt;
+&lt;li&gt;Ruby (+++), Ruby on Rails(+++)&lt;/li&gt;
+&lt;li&gt;Go(++) [golang]&lt;/li&gt;
+&lt;li&gt;JavaScript(++), jQuery, React(+), Redux&lt;/li&gt;
+&lt;li&gt;Foundation CSS Framework (++)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;databases:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Databases&lt;/h4&gt;
+&lt;h4 id=&#34;web-scraping-automatization:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Web Scraping &amp;amp; Automatization&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;MySQL&lt;/li&gt;
-&lt;li&gt;PostgreSQL&lt;/li&gt;
+&lt;li&gt;mechanize(++)&lt;/li&gt;
+&lt;li&gt;Nokogiri(++)&lt;/li&gt;
+&lt;li&gt;Selenium&lt;/li&gt;
+&lt;li&gt;phantomjs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;databases-caches:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Databases &amp;amp; Caches&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;MySQL(++)&lt;/li&gt;
+&lt;li&gt;PostgreSQL(+)&lt;/li&gt;
+&lt;li&gt;mongoDB&lt;/li&gt;
 &lt;li&gt;Redis&lt;/li&gt;
+&lt;li&gt;memcached&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;devops:7e6115c4d209379befeb3847e8c4905b&#34;&gt;DevOps&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Linux, Ubuntu Server(+)&lt;/li&gt;
+&lt;li&gt;Ansible(+)&lt;/li&gt;
+&lt;li&gt;nginx&lt;/li&gt;
+&lt;li&gt;systemd, upstart&lt;/li&gt;
+&lt;li&gt;docker&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;javascript-ecosystem:7e6115c4d209379befeb3847e8c4905b&#34;&gt;JavaScript Ecosystem&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;npm&lt;/li&gt;
+&lt;li&gt;bower&lt;/li&gt;
+&lt;li&gt;grunt(+)&lt;/li&gt;
+&lt;li&gt;webpack&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;development-tools:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Development Tools&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sublime Text&lt;/li&gt;
+&lt;li&gt;git(+++)&lt;/li&gt;
+&lt;li&gt;Continuous Integration with circleci.com&lt;/li&gt;
+&lt;li&gt;vagrant&lt;/li&gt;
+&lt;li&gt;Virtual Box&lt;/li&gt;
+&lt;li&gt;zsh(++) in iTerm&lt;/li&gt;
+&lt;li&gt;Github&lt;/li&gt;
+&lt;li&gt;Mac OS X(+)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&#34;miscellaneous:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Miscellaneous&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;HTML5, CSS3, git, capistrano, ansible&lt;/li&gt;
+&lt;li&gt;HTML5, CSS3, Capistrano, nodeJS, Rust, R, MATLAB&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;languages:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Languages&lt;/h2&gt;
+&lt;h2 id=&#34;natural-languages:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Natural Languages&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;German (native)&lt;/li&gt;
-&lt;li&gt;English (fluent)&lt;/li&gt;
+&lt;li&gt;English (almost too good)&lt;/li&gt;
+&lt;li&gt;French, Italian (beginner)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
