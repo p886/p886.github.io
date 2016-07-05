@@ -9,7 +9,7 @@ title = "curriculum vitae"
 
 ## Personal Information
 - born: 1986-08-07
-- location: [Bonn, Germany](https://www.google.de/maps/@50.7291802,7.0853087,12.28z?hl=en) [willing to relocate _solar-system-wide_]
+- location: [Bonn, Germany](https://www.google.de/maps/@50.7291802,7.0853087,12.28z?hl=en) [willing to world-wide]
 
 ## Contact me
 - Email: philippantar@gmail.com
@@ -77,9 +77,9 @@ title = "curriculum vitae"
   - Mac OS X(+)
 
 #### Miscellaneous
-  - HTML5, CSS3, Capistrano, nodeJS, Rust, R, MATLAB
+  - HTML5, CSS3, Capistrano, nodeJS, Rust, R, MATLAB, Kanban
 
 ## Natural Languages
 - German (native)
-- English (almost too good)
+- English (fluent)
 - French, Italian (beginner)
