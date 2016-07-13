@@ -7,7 +7,7 @@ title = "Mental Models"
 
 A list of higher mental models that I use in my thinking. Will be expanded as I learn and grow.
 
-Last update: 2016-04-04
+Last update: 2016-07-13
 
 - General:
   - [Pareto Principle (80/20)](https://en.wikipedia.org/wiki/Pareto_principle)
@@ -15,6 +15,7 @@ Last update: 2016-04-04
   - [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
   - [Cynefin](https://en.wikipedia.org/wiki/Cynefin)
   - [Availability Heuristic](https://en.wikipedia.org/wiki/Availability_heuristic)
+  - [ceteris paribus](https://en.wikipedia.org/wiki/Ceteris_paribus)
 - Personal Development / Psychology
   - [Fixed Mindest vs. Growth Mindset](https://sivers.org/mindset)
   - [Four-sides model (communication)](https://en.wikipedia.org/wiki/Four-sides_model)
