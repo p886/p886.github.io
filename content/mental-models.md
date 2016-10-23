@@ -7,7 +7,7 @@ title = "Mental Models"
 
 A list of higher mental models that I use in my thinking. Will be expanded as I learn and grow.
 
-Last update: 2016-07-13
+Last update: 2016-10-23
 
 - General:
   - [Pareto Principle (80/20)](https://en.wikipedia.org/wiki/Pareto_principle)
@@ -32,6 +32,8 @@ Last update: 2016-07-13
   - [MECE Principle](https://en.wikipedia.org/wiki/MECE_principle)
   - [Maslow's Hierarchy Of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
   - [Hedonic Treadmill](https://en.wikipedia.org/wiki/Hedonic_treadmill)
+  - [Mere Exposure Effect](https://en.wikipedia.org/wiki/Mere-exposure_effect)
+  - [Cognitive Dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance)
 - Finances / Economy
   - [Interest](https://en.wikipedia.org/wiki/Interest)
   - [Annuity](https://en.wikipedia.org/wiki/Annuity)

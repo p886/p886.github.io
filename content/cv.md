@@ -9,7 +9,7 @@ title = "curriculum vitae"
 
 ## Personal Information
 - born: 1986-08-07
-- location: [Bonn, Germany](https://www.google.de/maps/@50.7291802,7.0853087,12.28z?hl=en) [willing to relocate world-wide]
+- location: Berlin, Germany
 
 ## Contact me
 - Email: philippantar@gmail.com
@@ -27,11 +27,8 @@ title = "curriculum vitae"
 ## Career
 - 2013-01 – 2013-08 **PhD student**, Institute for Soil Science, University of Bonn
 - 2013-08 – 2016-05 **Web Developer**, Distribusion Technologies GmbH (formerly: FahrtenFuchs GmbH)
-- since 2016-06 **Web Developer**, SayWay GmbH
-
-## Side projects
-- https://sessionbot.com backing track generator that takes chord symbols as input. Built with Rails, Postgres, Foundation (CSS), Ruby MIDI library, timidity, LAME mp3 encoder
-- https://voczy.com Vocabulary Trainer. React frontend, Go backend, Postgres Database, Facebook Login
+- 2016-06 – 2016-07 **Web Developer**, SayWay GmbH
+- since 2016-09 **Web Developer**, Cash Payment Solutions GmbH
 
 ## Expertise
 #### Programming Languages & Frameworks
@@ -82,4 +79,4 @@ title = "curriculum vitae"
 ## Natural Languages
 - German (native)
 - English (fluent)
-- French, Italian (beginner)
+- French (beginner)
