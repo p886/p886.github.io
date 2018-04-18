@@ -13,7 +13,6 @@ title = "curriculum vitae"
 
 ## Contact me
 - Email: philippantar@gmail.com
-- Phone: +49 178 1457886
 - Web: http://philippantar.com
 - Twitter: https://twitter.com/p886
 - Github: https://github.com/p886
