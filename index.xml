@@ -2,425 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philipp Antar</title>
-    <link>http://philippantar.com/</link>
+    <link>https://philippantar.com/</link>
     <description>Recent content on Philipp Antar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jun 2016 22:22:12 +0200</lastBuildDate>
-    <atom:link href="http://philippantar.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Apr 2016 18:10:36 +0200</lastBuildDate>
     
-    <item>
-      <title>COME ON YOLO</title>
-      <link>http://philippantar.com/posts/come-on-yolo/</link>
-      <pubDate>Thu, 23 Jun 2016 22:22:12 +0200</pubDate>
-      
-      <guid>http://philippantar.com/posts/come-on-yolo/</guid>
-      <description>&lt;p&gt;What ever happened to…&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;that idea you wanted to turn into reality?
-
-&lt;ul&gt;
-&lt;li&gt;Still just an idea?&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;that girl / boy you wanted to ask out?
-
-&lt;ul&gt;
-&lt;li&gt;Still to shy?&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;that book you wanted to read?
-
-&lt;ul&gt;
-&lt;li&gt;Still not on your desk?&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;that business you wanted to start?
-
-&lt;ul&gt;
-&lt;li&gt;Still not tested the market?&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;that skill you wanted to learn?
-
-&lt;ul&gt;
-&lt;li&gt;still not googled for tutorials?&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Clarify for yourself:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.thecoffeeshoptrader.com/2016/05/work-determines-future-spend-one-hour-per-day-five-things-life-will-change.html&#34;&gt;What are you doing between 8pm and midnight?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;What unneccessary habit can you ditch?
-
-&lt;ul&gt;
-&lt;li&gt;Social Media&lt;/li&gt;
-&lt;li&gt;TV&lt;/li&gt;
-&lt;li&gt;consuming YouTube&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;most importantly:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What is the first step that I can take today to get closer to my goals?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Then take that step.&lt;/p&gt;
-
-&lt;p&gt;See you tomorrow, when you&amp;rsquo;re already one step ahead of yesterday.&lt;/p&gt;
-
-&lt;p&gt;YOLO!&lt;/p&gt;
-</description>
-    </item>
+	<atom:link href="https://philippantar.com/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>my pgp key</title>
-      <link>http://philippantar.com/pgp/</link>
+      <link>https://philippantar.com/pgp/</link>
       <pubDate>Fri, 22 Apr 2016 18:10:36 +0200</pubDate>
       
-      <guid>http://philippantar.com/pgp/</guid>
-      <description>&lt;p&gt;Send me encrypted messages for big bonus points!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://keybase.io/p886&#34;&gt;https://keybase.io/p886&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Fingerprint: &lt;code&gt;AB19 9923 F1B6 F633 4756  B21A 2DBF 53C2 E30E D27C&lt;/code&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;-----BEGIN PGP PUBLIC KEY BLOCK-----
-Version: GnuPG v1
-
-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
-=aq+I
------END PGP PUBLIC KEY BLOCK-----
-&lt;/code&gt;&lt;/pre&gt;
-</description>
+      <guid>https://philippantar.com/pgp/</guid>
+      <description>Send me encrypted messages for big bonus points!
+https://keybase.io/p886
+Fingerprint: AB19 9923 F1B6 F633 4756 B21A 2DBF 53C2 E30E D27C
+-----BEGIN PGP PUBLIC KEY BLOCK----- Version: GnuPG v1 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 =aq+I -----END PGP PUBLIC KEY BLOCK-----  </description>
     </item>
     
     <item>
       <title>curriculum vitae</title>
-      <link>http://philippantar.com/cv/</link>
+      <link>https://philippantar.com/cv/</link>
       <pubDate>Thu, 10 Mar 2016 20:37:14 +0100</pubDate>
       
-      <guid>http://philippantar.com/cv/</guid>
-      <description>
-
-&lt;h1 id=&#34;philipp-antar:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Philipp Antar&lt;/h1&gt;
-
-&lt;h2 id=&#34;personal-information:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Personal Information&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;born: 1986-08-07&lt;/li&gt;
-&lt;li&gt;location: Berlin, Germany&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;contact-me:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Contact me&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Email: philippantar@gmail.com&lt;/li&gt;
-&lt;li&gt;Phone: +49 178 1457886&lt;/li&gt;
-&lt;li&gt;Web: &lt;a href=&#34;http://philippantar.com&#34;&gt;http://philippantar.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Twitter: &lt;a href=&#34;https://twitter.com/p886&#34;&gt;https://twitter.com/p886&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Github: &lt;a href=&#34;https://github.com/p886&#34;&gt;https://github.com/p886&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;KeyBase: &lt;a href=&#34;https://keybase.io/p886&#34;&gt;https://keybase.io/p886&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;education:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Education&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;2007 - 2010 &lt;strong&gt;BSc Studies&lt;/strong&gt;, Agricultural Science, University of Bonn&lt;/li&gt;
-&lt;li&gt;2010 - 2012 &lt;strong&gt;MSc Studies&lt;/strong&gt;, Agricultural Science, University of Bonn&lt;/li&gt;
-&lt;li&gt;2013-02 – 2013-08 &lt;strong&gt;Career change into web development&lt;/strong&gt; with online courses at &lt;a href=&#34;https://teamtreehouse.com/&#34;&gt;https://teamtreehouse.com/&lt;/a&gt; and &lt;a href=&#34;https://codecademy.com/&#34;&gt;https://codecademy.com/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;career:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Career&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;2013-01 – 2013-08 &lt;strong&gt;PhD student&lt;/strong&gt;, Institute for Soil Science, University of Bonn&lt;/li&gt;
-&lt;li&gt;2013-08 – 2016-05 &lt;strong&gt;Web Developer&lt;/strong&gt;, Distribusion Technologies GmbH (formerly: FahrtenFuchs GmbH)&lt;/li&gt;
-&lt;li&gt;2016-06 – 2016-07 &lt;strong&gt;Web Developer&lt;/strong&gt;, SayWay GmbH&lt;/li&gt;
-&lt;li&gt;since 2016-09 &lt;strong&gt;Web Developer&lt;/strong&gt;, Cash Payment Solutions GmbH&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;expertise:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Expertise&lt;/h2&gt;
-
-&lt;h4 id=&#34;programming-languages-frameworks:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Programming Languages &amp;amp; Frameworks&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ruby (+++), Ruby on Rails(+++)&lt;/li&gt;
-&lt;li&gt;Go(++) [golang]&lt;/li&gt;
-&lt;li&gt;JavaScript(++), jQuery, React(+), Redux&lt;/li&gt;
-&lt;li&gt;Foundation CSS Framework (++)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;web-scraping-automatization:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Web Scraping &amp;amp; Automatization&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;mechanize(++)&lt;/li&gt;
-&lt;li&gt;Nokogiri(++)&lt;/li&gt;
-&lt;li&gt;Selenium&lt;/li&gt;
-&lt;li&gt;phantomjs&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;databases-caches:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Databases &amp;amp; Caches&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;MySQL(++)&lt;/li&gt;
-&lt;li&gt;PostgreSQL(+)&lt;/li&gt;
-&lt;li&gt;mongoDB&lt;/li&gt;
-&lt;li&gt;Redis&lt;/li&gt;
-&lt;li&gt;memcached&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;devops:7e6115c4d209379befeb3847e8c4905b&#34;&gt;DevOps&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Linux, Ubuntu Server(+)&lt;/li&gt;
-&lt;li&gt;Ansible(+)&lt;/li&gt;
-&lt;li&gt;nginx&lt;/li&gt;
-&lt;li&gt;systemd, upstart&lt;/li&gt;
-&lt;li&gt;docker&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;javascript-ecosystem:7e6115c4d209379befeb3847e8c4905b&#34;&gt;JavaScript Ecosystem&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;npm&lt;/li&gt;
-&lt;li&gt;bower&lt;/li&gt;
-&lt;li&gt;grunt(+)&lt;/li&gt;
-&lt;li&gt;webpack&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;development-tools:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Development Tools&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Sublime Text&lt;/li&gt;
-&lt;li&gt;git(+++)&lt;/li&gt;
-&lt;li&gt;Continuous Integration with circleci.com&lt;/li&gt;
-&lt;li&gt;vagrant&lt;/li&gt;
-&lt;li&gt;Virtual Box&lt;/li&gt;
-&lt;li&gt;zsh(++) in iTerm&lt;/li&gt;
-&lt;li&gt;Github&lt;/li&gt;
-&lt;li&gt;Mac OS X(+)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;miscellaneous:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Miscellaneous&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;HTML5, CSS3, Capistrano, nodeJS, Rust, R, MATLAB, Kanban&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;natural-languages:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Natural Languages&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;German (native)&lt;/li&gt;
-&lt;li&gt;English (fluent)&lt;/li&gt;
-&lt;li&gt;French (beginner)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>https://philippantar.com/cv/</guid>
+      <description>Philipp Antar Personal Information  born: 1986-08-07 location: Berlin, Germany  Contact me  Email: philippantar@gmail.com Web: http://philippantar.com Twitter: https://twitter.com/p886 Github: https://github.com/p886 KeyBase: https://keybase.io/p886  Education  2007 - 2010 BSc Studies, Agricultural Science, University of Bonn 2010 - 2012 MSc Studies, Agricultural Science, University of Bonn 2013-02 – 2013-08 Career change into web development with online courses at https://teamtreehouse.com/ and https://codecademy.com/  Career  2013-01 – 2013-08 PhD student, Institute for Soil Science, University of Bonn 2013-08 – 2016-05 Web Developer, Distribusion Technologies GmbH (formerly: FahrtenFuchs GmbH) 2016-06 – 2016-07 Web Developer, SayWay GmbH since 2016-09 Web Developer, Cash Payment Solutions GmbH  Expertise Programming Languages &amp;amp; Frameworks  Ruby (+++), Ruby on Rails(+++) Go(++) [golang] JavaScript(++), jQuery, React(+), Redux Foundation CSS Framework (++)  Web Scraping &amp;amp; Automatization  mechanize(++) Nokogiri(++) Selenium phantomjs  Databases &amp;amp; Caches  MySQL(++) PostgreSQL(+) mongoDB Redis memcached  DevOps  Linux, Ubuntu Server(+) Ansible(+) nginx systemd, upstart docker  JavaScript Ecosystem  npm bower grunt(+) webpack  Development Tools  Sublime Text git(+++) Continuous Integration with circleci.</description>
     </item>
     
     <item>
       <title>How I deploy to GitHub Pages</title>
-      <link>http://philippantar.com/posts/how-i-deploy-to-github-pages/</link>
+      <link>https://philippantar.com/posts/how-i-deploy-to-github-pages/</link>
       <pubDate>Mon, 23 Nov 2015 12:25:34 +0100</pubDate>
       
-      <guid>http://philippantar.com/posts/how-i-deploy-to-github-pages/</guid>
-      <description>
-
-&lt;h3 id=&#34;how-does-github-pages-work-skip-if-you-know-this:71521a367a7dae90844c0ec73832bc4e&#34;&gt;How does Github pages work? (skip if you know this)&lt;/h3&gt;
-
-&lt;p&gt;Many static pages generators will generate a single &lt;code&gt;public&lt;/code&gt; as output. This folders contains the entire generated site. On GitHub you can create a repository with the special name &lt;code&gt;&amp;lt;your GitHub username&amp;gt;.github.io&lt;/code&gt;, in my case &lt;code&gt;p886.github.io&lt;/code&gt;. Doing so will create a webpage at the address &lt;code&gt;http://github_user_name.github.io&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;the-problem-with-static-page-generators-and-github-pages:71521a367a7dae90844c0ec73832bc4e&#34;&gt;The problem with static page generators and GitHub pages&lt;/h3&gt;
-
-&lt;p&gt;The tricky part is that the &lt;code&gt;master&lt;/code&gt; branch of that repository should contain the site (the content of the aforementioned &lt;code&gt;public&lt;/code&gt; folder), while on the other hand you probably want to keep the source files of that page (in my case of collection of markdown files) in the same repository.&lt;/p&gt;
-
-&lt;h3 id=&#34;the-solution:71521a367a7dae90844c0ec73832bc4e&#34;&gt;The solution&lt;/h3&gt;
-
-&lt;p&gt;My &lt;a href=&#34;https://github.com/p886/p886.github.io&#34;&gt;p886.github.io repository&lt;/a&gt; has two branches: &lt;code&gt;master&lt;/code&gt; and &lt;code&gt;source&lt;/code&gt;. &lt;code&gt;master&lt;/code&gt; contains the generated HTML, which is copied over on each deployment from the &lt;code&gt;source&lt;/code&gt; branches&amp;rsquo; &lt;code&gt;public&lt;/code&gt; folder. How do I go about copying the HTML files from one branch to another? I found that the easiest solution is to have the project cloned locally two times. One clone contains only the master branch, another one only the source branch. When creating a post I add the markdown file in the &lt;code&gt;source&lt;/code&gt; clone. After commiting the new post I run the static page generator to create the &lt;code&gt;public&lt;/code&gt; directory. Subsequently I copy the contents of the public directory to the &lt;code&gt;master&lt;/code&gt; clone. A new commit in the &lt;code&gt;master&lt;/code&gt; checkout is created which contains the site. This commit is then pushed to the remote repository to have the new content online.&lt;/p&gt;
-
-&lt;p&gt;In reality I automated most of this. After I created the commit containing the new post in the &lt;code&gt;source&lt;/code&gt; checkout I run this bash script:&lt;/p&gt;
-
-&lt;script src=&#34;https://gist.github.com/p886/955d2b48aa2718639e70.js&#34;&gt;&lt;/script&gt;
-
-&lt;h3 id=&#34;summary:71521a367a7dae90844c0ec73832bc4e&#34;&gt;Summary&lt;/h3&gt;
-
-&lt;p&gt;The key is two have two branches in the repository: &lt;code&gt;master&lt;/code&gt; and &lt;code&gt;source&lt;/code&gt;. Locally the repository is cloned twice: once with the &lt;code&gt;master&lt;/code&gt; and again with the &lt;code&gt;source&lt;/code&gt; branch.&lt;/p&gt;
-</description>
+      <guid>https://philippantar.com/posts/how-i-deploy-to-github-pages/</guid>
+      <description>How does Github pages work? (skip if you know this) Many static pages generators will generate a single public as output. This folders contains the entire generated site. On GitHub you can create a repository with the special name &amp;lt;your GitHub username&amp;gt;.github.io, in my case p886.github.io. Doing so will create a webpage at the address http://github_user_name.github.io.
+The problem with static page generators and GitHub pages The tricky part is that the master branch of that repository should contain the site (the content of the aforementioned public folder), while on the other hand you probably want to keep the source files of that page (in my case of collection of markdown files) in the same repository.</description>
     </item>
     
     <item>
       <title>Mental Models</title>
-      <link>http://philippantar.com/mental-models/</link>
+      <link>https://philippantar.com/mental-models/</link>
       <pubDate>Fri, 20 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://philippantar.com/mental-models/</guid>
-      <description>&lt;p&gt;A list of higher mental models that I use in my thinking. Will be expanded as I learn and grow.&lt;/p&gt;
-
-&lt;p&gt;Last update: 2016-10-23&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;General:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Pareto_principle&#34;&gt;Pareto Principle (&lt;sup&gt;80&lt;/sup&gt;&amp;frasl;&lt;sub&gt;20&lt;/sub&gt;)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Feedback&#34;&gt;Feedback Loops&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Parkinson%27s_law&#34;&gt;Parkinson&amp;rsquo;s Law&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cynefin&#34;&gt;Cynefin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Availability_heuristic&#34;&gt;Availability Heuristic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ceteris_paribus&#34;&gt;ceteris paribus&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Personal Development / Psychology
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sivers.org/mindset&#34;&gt;Fixed Mindest vs. Growth Mindset&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Four-sides_model&#34;&gt;Four-sides model (communication)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect&#34;&gt;Dunning-Kruger effect&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/SMART_criteria&#34;&gt;SMART criteria&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Survivorship_bias&#34;&gt;Survivorship Bias&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Confirmation_bias&#34;&gt;Confirmation Bias&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Fundamental_attribution_error&#34;&gt;Fundamental Attribution Error&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=YMPzDiraNnA&#34;&gt;Learned Helplessness&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Loss_aversion&#34;&gt;Loss aversion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Delayed_gratification&#34;&gt;Delayed Gratification&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Prisoner%27s_dilemma&#34;&gt;Prisoner&amp;rsquo;s Dilemma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Diminishing_returns&#34;&gt;Law of Diminishing Returns&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MECE_principle&#34;&gt;MECE Principle&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs&#34;&gt;Maslow&amp;rsquo;s Hierarchy Of Needs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hedonic_treadmill&#34;&gt;Hedonic Treadmill&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mere-exposure_effect&#34;&gt;Mere Exposure Effect&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cognitive_dissonance&#34;&gt;Cognitive Dissonance&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Finances / Economy
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Interest&#34;&gt;Interest&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Annuity&#34;&gt;Annuity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Giffen_good&#34;&gt;Giffen good&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Sunk_costs&#34;&gt;Sunk Costs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=WYA1y405JW0&#34;&gt;Tragedy Of The Commons&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Music
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Circle_of_fifths&#34;&gt;Circle Of Fifths&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Harmony&#34;&gt;Harmony&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Rhythm&#34;&gt;Rhythm&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Philosophy
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Occam%27s_razor&#34;&gt;Occam&amp;rsquo;s Razor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hanlon%27s_razor&#34;&gt;Hanlons&amp;rsquo; Razor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hitchens%27s_razor&#34;&gt;Hitchens&amp;rsquo;s Razor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mike_Alder#Newton.27s_flaming_laser_sword&#34;&gt;Newton&amp;rsquo;s Flaming Laser Sword&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/A_priori_and_a_posteriori&#34;&gt;A priori / a posteriori&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Categorical_imperative&#34;&gt;Categorical Imperative&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Mathematics / Statistics
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Probability_distribution&#34;&gt;Probability Distribution&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bayes%27_theorem&#34;&gt;Bayes Theorem&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Central_limit_theorem&#34;&gt;Central Limit Theorem&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Law_of_large_numbers&#34;&gt;Law Of Large Numbers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Gambler%27s_fallacy&#34;&gt;Gambler&amp;rsquo;s fallacy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation&#34;&gt;Correlation does not imply causation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Necessity_and_sufficiency&#34;&gt;Necessity and Sufficiency&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel&#34;&gt;Hilbert&amp;rsquo;s Hotel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=fCn8zs912OE&#34;&gt;Zipf&amp;rsquo;s Law&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Computer Science
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Technological_singularity&#34;&gt;Technological Singularity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Information_asymmetry&#34;&gt;Information Asymmetry&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Leaky_abstraction&#34;&gt;Leaky Abstraction&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>https://philippantar.com/mental-models/</guid>
+      <description>A list of higher mental models that I use in my thinking. Will be expanded as I learn and grow.
+Last update: 2016-10-23
+ General:  Pareto Principle (80&amp;frasl;20) Feedback Loops Parkinson&amp;rsquo;s Law Cynefin Availability Heuristic ceteris paribus  Personal Development / Psychology  Fixed Mindest vs. Growth Mindset Four-sides model (communication) Dunning-Kruger effect SMART criteria Survivorship Bias Confirmation Bias Fundamental Attribution Error Learned Helplessness Loss aversion Delayed Gratification Prisoner&amp;rsquo;s Dilemma Law of Diminishing Returns MECE Principle Maslow&amp;rsquo;s Hierarchy Of Needs Hedonic Treadmill Mere Exposure Effect Cognitive Dissonance  Finances / Economy  Interest Annuity Giffen good Sunk Costs Tragedy Of The Commons  Music  Circle Of Fifths Harmony Rhythm  Philosophy  Occam&amp;rsquo;s Razor Hanlons&amp;rsquo; Razor Hitchens&amp;rsquo;s Razor Newton&amp;rsquo;s Flaming Laser Sword A priori / a posteriori Categorical Imperative  Mathematics / Statistics  Probability Distribution Bayes Theorem Central Limit Theorem Law Of Large Numbers Gambler&amp;rsquo;s fallacy Correlation does not imply causation Necessity and Sufficiency Hilbert&amp;rsquo;s Hotel Zipf&amp;rsquo;s Law  Computer Science  Technological Singularity Information Asymmetry Leaky Abstraction   </description>
     </item>
     
     <item>
       <title>What I&#39;m currently doing</title>
-      <link>http://philippantar.com/now/</link>
+      <link>https://philippantar.com/now/</link>
       <pubDate>Fri, 06 Nov 2015 20:52:02 +0100</pubDate>
       
-      <guid>http://philippantar.com/now/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Working as a web developer&lt;/li&gt;
-&lt;li&gt;Playing Guitar&lt;/li&gt;
-&lt;li&gt;Playing Piano&lt;/li&gt;
-&lt;li&gt;Singing&lt;/li&gt;
-&lt;li&gt;Improving my body (weightlifting)&lt;/li&gt;
-&lt;li&gt;Improving my personality&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>https://philippantar.com/now/</guid>
+      <description> Working as a web developer Playing Guitar Playing Piano Singing Improving my body (weightlifting) Improving my personality  </description>
     </item>
     
   </channel>
