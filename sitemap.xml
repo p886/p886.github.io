@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://philippantar.com/impressum/</loc>
+    <lastmod>2018-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://philippantar.com/pgp/</loc>
     <lastmod>2016-04-22T18:10:36+02:00</lastmod>
   </url>
@@ -58,7 +63,7 @@
   
   <url>
     <loc>https://philippantar.com/</loc>
-    <lastmod>2016-04-22T18:10:36+02:00</lastmod>
+    <lastmod>2018-05-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
