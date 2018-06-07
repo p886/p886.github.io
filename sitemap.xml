@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://philippantar.com/posts/one-way-to-generate-animations-with-keras/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://philippantar.com/impressum/</loc>
     <lastmod>2018-05-29T00:00:00+00:00</lastmod>
   </url>
@@ -38,19 +43,13 @@
   </url>
   
   <url>
-    <loc>https://philippantar.com/tags/development/</loc>
-    <lastmod>2016-04-22T18:10:36+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://philippantar.com/categories/development/</loc>
     <lastmod>2016-04-22T18:10:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://philippantar.com/tags/golang/</loc>
+    <loc>https://philippantar.com/tags/development/</loc>
     <lastmod>2016-04-22T18:10:36+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -62,14 +61,20 @@
   </url>
   
   <url>
+    <loc>https://philippantar.com/tags/golang/</loc>
+    <lastmod>2016-04-22T18:10:36+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://philippantar.com/</loc>
-    <lastmod>2018-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://philippantar.com/posts/</loc>
-    <lastmod>2015-11-23T12:25:34+01:00</lastmod>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

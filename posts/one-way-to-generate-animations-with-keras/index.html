@@ -1,0 +1,92 @@
+	<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="generator" content="Hugo 0.40.3" />
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title> One way to create animations of Keras models learning &middot; Philipp Antar </title>
+
+  
+  <link rel="stylesheet" href="https://philippantar.com/css/poole.css">
+  <link rel="stylesheet" href="https://philippantar.com/css/syntax.css">
+  <link rel="stylesheet" href="https://philippantar.com/css/hyde.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/favicon.png">
+
+</head>
+
+	<body class="">
+		<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <a href="https://philippantar.com/"><h1>Philipp Antar</h1></a>
+      <a href="https://github.com/p886" title="GitHub"><i class="fa fa-github fa-2x"></i></a>
+      <a href="https://twitter.com/p886" title="Twitter"><i class="fa fa-twitter fa-2x"></i></a>
+      <a href="mailto:philippantar@gmail.com" title="Email"><i class="fa fa-envelope fa-2x"></i></a>
+      <p class="lead">Web Developer, Musician, Student Of Life</p>
+    </div>
+
+    <ul class="sidebar-nav">
+      <a href="https://philippantar.com/posts">Blog Posts</a>
+      <hr>
+      
+        <li><a href="/impressum/"> Impressum </a></li>
+      
+        <li><a href="/mental-models/"> Mental Models </a></li>
+      
+        <li><a href="/now/"> What I&#39;m currently doing </a></li>
+      
+        <li><a href="/cv/"> curriculum vitae </a></li>
+      
+        <li><a href="/pgp/"> my pgp key </a></li>
+      
+    </ul>
+  </div>
+</div>
+
+
+		<div class="content container">
+			<div class="post">
+			 	<h1>One way to create animations of Keras models learning</h1>
+			  <span class="post-date">Thu, Jun 7, 2018</span>
+			      <p>Say you want to create an animation that shows how a neural network learns from data. Maybe something like this, where a neural network learns the shape of a sine function:</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jzYQYGXYPpA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<p>Here&rsquo;s how I did that. First, get the code for the neural network, so you can follow along: <a href="https://github.com/p886/ml-sine">ml-sine on GitHub</a></p>
+
+<p>When training your model you&rsquo;ll usually use a statement like this:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">model<span style="color:#f92672">.</span>fit(x_train, y_train, batch_size<span style="color:#f92672">=</span><span style="color:#ae81ff">128</span>, epochs<span style="color:#f92672">=</span><span style="color:#ae81ff">100</span>)</code></pre></div>
+<p>After every epoch we want to take a snapshot of how well our prediction fits the training data. So the first step would be to iterate the epochs manually:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#66d9ef">for</span> epoch <span style="color:#f92672">in</span> np<span style="color:#f92672">.</span>arange(<span style="color:#ae81ff">1</span>, epochs):
+      self<span style="color:#f92672">.</span>model<span style="color:#f92672">.</span>fit(x_train, y_train, batch_size<span style="color:#f92672">=</span><span style="color:#ae81ff">128</span>)</code></pre></div>
+<p>this allows us to run additional code in between the training epochs. The code we want to run between should save a plot of our prediction and the &lsquo;ground-truth&rsquo; <code>y_train</code>. We&rsquo;ll use <code>matplotlib</code> to achieve this:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">import</span> matplotlib.pyplot <span style="color:#f92672">as</span> plt
+
+plt<span style="color:#f92672">.</span>plot(x_train, y_train, <span style="color:#e6db74">&#39;g.&#39;</span>, ms<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+plt<span style="color:#f92672">.</span>plot(x_train, self<span style="color:#f92672">.</span>model<span style="color:#f92672">.</span>predict(x_train), <span style="color:#e6db74">&#39;r.&#39;</span>, ms<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+plt<span style="color:#f92672">.</span>axis([
+   x_train<span style="color:#f92672">.</span>min() <span style="color:#f92672">-</span> <span style="color:#ae81ff">0.5</span>, x_train<span style="color:#f92672">.</span>max() <span style="color:#f92672">+</span> <span style="color:#ae81ff">0.5</span>,
+   y_train<span style="color:#f92672">.</span>min() <span style="color:#f92672">-</span> <span style="color:#ae81ff">0.5</span>, y_train<span style="color:#f92672">.</span>max() <span style="color:#f92672">+</span> <span style="color:#ae81ff">0.5</span>,
+])
+plt<span style="color:#f92672">.</span>title(f<span style="color:#e6db74">&#34;Epoch #{epoch}&#34;</span>)
+plt<span style="color:#f92672">.</span>savefig(f<span style="color:#e6db74">&#34;img/plot_{epoch}.png&#34;</span>)
+plt<span style="color:#f92672">.</span>clf()</code></pre></div>
+<p>We&rsquo;re using <code>plt.savefig()</code> to store an image of the plot on disk. We will end up with 100 images that we can turn into a slideshow video using <code>ffmpeg</code>. Assuming the images are stored in a subfolder named <code>img</code>:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">ffmpeg -n -framerate <span style="color:#ae81ff">4</span>  -i <span style="color:#e6db74">&#34;img/plot_%d.png&#34;</span>  -vf <span style="color:#e6db74">&#34;fps=25,format=yuv420p&#34;</span> movie.mp4</code></pre></div>
+<p>The option <code>-framerate 4</code> makes each image appear for a quarter of a second.</p>
+
+			</div>
+
+			
+		</div>
+  </body>
+</html>
