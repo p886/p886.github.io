@@ -16,14 +16,15 @@ When training your model you'll usually use a statement like this:
 model.fit(x_train, y_train, batch_size=128, epochs=100)
 ```
 
-After every epoch we want to take a snapshot of how well our prediction fits the training data. So the first step would be to iterate the epochs manually:
+After every epoch we want to take a snapshot of how well our prediction fits the training data. Let's iterate the epochs manually instead of using the `epochs=100` argument:
 
 ```python
+epochs = 100
 for epoch in np.arange(1, epochs):
       self.model.fit(x_train, y_train, batch_size=128)
 ```
 
-this allows us to run additional code in between the training epochs. The code we want to run between should save a plot of our prediction and the 'ground-truth' `y_train`. We'll use `matplotlib` to achieve this:
+This allows us to run additional code in between the training epochs. We want to save a plot of our prediction and the 'ground-truth' `y_train`. Using `matplotlib`:
 
 ```python
 import matplotlib.pyplot as plt
@@ -46,3 +47,5 @@ ffmpeg -n -framerate 4  -i "img/plot_%d.png"  -vf "fps=25,format=yuv420p" movie.
 ```
 
 The option `-framerate 4` makes each image appear for a quarter of a second.
+
+Have fun
