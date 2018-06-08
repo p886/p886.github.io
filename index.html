@@ -75,10 +75,11 @@
 
 <p>When training your model you&rsquo;ll usually use a statement like this:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">model<span style="color:#f92672">.</span>fit(x_train, y_train, batch_size<span style="color:#f92672">=</span><span style="color:#ae81ff">128</span>, epochs<span style="color:#f92672">=</span><span style="color:#ae81ff">100</span>)</code></pre></div>
-<p>After every epoch we want to take a snapshot of how well our prediction fits the training data. So the first step would be to iterate the epochs manually:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#66d9ef">for</span> epoch <span style="color:#f92672">in</span> np<span style="color:#f92672">.</span>arange(<span style="color:#ae81ff">1</span>, epochs):
+<p>After every epoch we want to take a snapshot of how well our prediction fits the training data. Let&rsquo;s iterate the epochs manually instead of using the <code>epochs=100</code> argument:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">epochs <span style="color:#f92672">=</span> <span style="color:#ae81ff">100</span>
+<span style="color:#66d9ef">for</span> epoch <span style="color:#f92672">in</span> np<span style="color:#f92672">.</span>arange(<span style="color:#ae81ff">1</span>, epochs):
       self<span style="color:#f92672">.</span>model<span style="color:#f92672">.</span>fit(x_train, y_train, batch_size<span style="color:#f92672">=</span><span style="color:#ae81ff">128</span>)</code></pre></div>
-<p>this allows us to run additional code in between the training epochs. The code we want to run between should save a plot of our prediction and the &lsquo;ground-truth&rsquo; <code>y_train</code>. We&rsquo;ll use <code>matplotlib</code> to achieve this:</p>
+<p>This allows us to run additional code in between the training epochs. We want to save a plot of our prediction and the &lsquo;ground-truth&rsquo; <code>y_train</code>. Using <code>matplotlib</code>:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">import</span> matplotlib.pyplot <span style="color:#f92672">as</span> plt
 
 plt<span style="color:#f92672">.</span>plot(x_train, y_train, <span style="color:#e6db74">&#39;g.&#39;</span>, ms<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
@@ -93,6 +94,8 @@ plt<span style="color:#f92672">.</span>clf()</code></pre></div>
 <p>We&rsquo;re using <code>plt.savefig()</code> to store an image of the plot on disk. We will end up with 100 images that we can turn into a slideshow video using <code>ffmpeg</code>. Assuming the images are stored in a subfolder named <code>img</code>:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">ffmpeg -n -framerate <span style="color:#ae81ff">4</span>  -i <span style="color:#e6db74">&#34;img/plot_%d.png&#34;</span>  -vf <span style="color:#e6db74">&#34;fps=25,format=yuv420p&#34;</span> movie.mp4</code></pre></div>
 <p>The option <code>-framerate 4</code> makes each image appear for a quarter of a second.</p>
+
+<p>Have fun</p>
 
       </div>
       
