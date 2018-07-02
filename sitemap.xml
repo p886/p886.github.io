@@ -43,25 +43,25 @@
   </url>
   
   <url>
-    <loc>https://philippantar.com/tags/development/</loc>
-    <lastmod>2016-04-22T18:10:36+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://philippantar.com/categories/development/</loc>
     <lastmod>2016-04-22T18:10:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://philippantar.com/tags/golang/</loc>
+    <loc>https://philippantar.com/tags/development/</loc>
     <lastmod>2016-04-22T18:10:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://philippantar.com/categories/golang/</loc>
+    <lastmod>2016-04-22T18:10:36+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://philippantar.com/tags/golang/</loc>
     <lastmod>2016-04-22T18:10:36+02:00</lastmod>
     <priority>0</priority>
   </url>
