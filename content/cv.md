@@ -31,13 +31,13 @@ title = "curriculum vitae"
 
 ## Expertise
 #### Programming Languages & Frameworks
-  - Ruby (+++), Ruby on Rails(+++)
-  - Go(++) [golang]
+  - Ruby (+++)
+  - Go(+++) [golang]
   - JavaScript(++)
   - Python, numpy, keras
 
 #### Databases & Caches
-  - PostgreSQL(+)
+  - PostgreSQL(++)
   - Redis
 
 #### DevOps
