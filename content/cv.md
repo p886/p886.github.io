@@ -33,47 +33,28 @@ title = "curriculum vitae"
 #### Programming Languages & Frameworks
   - Ruby (+++), Ruby on Rails(+++)
   - Go(++) [golang]
-  - JavaScript(++), jQuery, React(+), Redux
-  - Foundation CSS Framework (++)
-
-#### Web Scraping & Automatization
-  - mechanize(++)
-  - Nokogiri(++)
-  - Selenium
-  - phantomjs
+  - JavaScript(++)
+  - Python, numpy, keras
 
 #### Databases & Caches
-  - MySQL(++)
   - PostgreSQL(+)
-  - mongoDB
   - Redis
-  - memcached
 
 #### DevOps
-  - Linux, Ubuntu Server(+)
+  - Linux, Ubuntu Server(+), macOS
   - Ansible(+)
-  - nginx
-  - systemd, upstart
   - docker
 
-#### JavaScript Ecosystem
-  - npm
-  - bower
-  - grunt(+)
-  - webpack
-
 #### Development Tools
-  - Sublime Text
+  - Sublime Text(+++)
   - git(+++)
-  - Continuous Integration with circleci.com
+  - GitLab, GitHub
   - vagrant
   - Virtual Box
-  - zsh(++) in iTerm
-  - Github
-  - Mac OS X(+)
+  - zsh(++)
 
 #### Miscellaneous
-  - HTML5, CSS3, Capistrano, nodeJS, Rust, R, MATLAB, Kanban
+  - HTML5, CSS3, Capistrano, nodeJS, Kanban
 
 ## Natural Languages
 - German (native)
