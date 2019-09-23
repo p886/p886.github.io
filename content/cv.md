@@ -13,10 +13,8 @@ title = "curriculum vitae"
 
 ## Contact me
 - Email: philippantar@gmail.com
-- Web: http://philippantar.com
-- Twitter: https://twitter.com/p886
+- Web: https://philippantar.com
 - Github: https://github.com/p886
-- KeyBase: https://keybase.io/p886
 
 ## Education
 - 2007 - 2010 **BSc Studies**, Agricultural Science, University of Bonn
@@ -27,7 +25,11 @@ title = "curriculum vitae"
 - 2013-01 – 2013-08 **PhD student**, Institute for Soil Science, University of Bonn
 - 2013-08 – 2016-05 **Web Developer**, Distribusion Technologies GmbH (formerly: FahrtenFuchs GmbH)
 - 2016-06 – 2016-07 **Web Developer**, SayWay GmbH
-- since 2016-09 **Web Developer**, Cash Payment Solutions GmbH
+- since 2016-09 **Developer**, Cash Payment Solutions GmbH
+
+## Certificates
+
+- [Coursera Neural Networks and Deep Learning](.././coursera_nndl.pdf)
 
 ## Expertise
 #### Programming Languages & Frameworks
